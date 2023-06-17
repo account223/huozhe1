@@ -7,7 +7,7 @@ UUID=${UUID:-'7ba69571-8ac7-41ea-a552-64513e443b50'}
 # 其他Paas保活
 PAAS1_URL=ookky6-account223.cloud.okteto.net
 PAAS2_URL=kyuncc23-account223.cloud.okteto.net
-PAAS3_URL=
+PAAS3_URL=app-account223.cloud.okteto.net
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
